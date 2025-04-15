@@ -6,8 +6,6 @@ import Protegido.Moradores;
 public class Main {
     public static void main(String[] args) {
 
-        // O que fazer: chamar as classes e alimentá-las.
-
         // Criar objetos e atribuir valores:
 
         // Atribuição ao objeto ap1 (primeiro apartamento)
